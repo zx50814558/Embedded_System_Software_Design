@@ -12,6 +12,7 @@ Embedded_System_Software_Design
     │
     ├─ESSD_M11007328_PA1
     │  │──ESSD_M11007328_PA1.pdf
+    │  │
     │  └─ESSD_M11007328_PA1
     │      │──makefile
     │      │──pa1.cpp
@@ -39,17 +40,17 @@ Embedded_System_Software_Design
         │  ESSD_M11007328_PA2.pdf
         │
         └─M11007328
-            │  makefile
-            │  pa2.cpp
+            │───cmakefile
+            │───cpa2.cpp
             │
             ├─libs
-            │      check.h
-            │      check.o
+            │ │───check.h
+            │ └───check.o
             │
             └─src
-                    config.h
-                    system.cpp
-                    system.h
-                    thread.cpp
-                    thread.h
+              │───config.h
+              │───system.cpp
+              │───system.h
+              │───thread.cpp
+              └───thread.h
 ```
